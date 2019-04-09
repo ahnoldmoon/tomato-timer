@@ -1,9 +1,9 @@
 {
-  "packagerPort": 19008,
-  "packagerPid": 14716,
+  "expoServerPort": 19007,
   "expoServerNgrokUrl": "https://hw-fx3.munnt.www-tomato-timer-com.exp.direct",
   "packagerNgrokUrl": "https://packager.hw-fx3.munnt.www-tomato-timer-com.exp.direct",
-  "ngrokPid": 14712,
+  "ngrokPid": 4628,
   "devToolsPort": 19006,
-  "expoServerPort": 19007
+  "packagerPort": 19008,
+  "packagerPid": 1992
 }
