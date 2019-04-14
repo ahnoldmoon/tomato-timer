@@ -10,7 +10,8 @@ class Timer extends Component{
             elapsedTime, 
             timerDuration,
             startTimer,
-            restartTimer 
+            restartTimer,
+            addSecond
         } = this.props;
         return(
             <View style={styles.container}>
